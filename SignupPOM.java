@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
 public class SignPOM {
-	
+	//pom class is here
 	//Declaration
 	
 	@FindBy(xpath="//input[@name='firstname']") private WebElement first;
